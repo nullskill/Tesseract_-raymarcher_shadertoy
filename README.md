@@ -1,2 +1,1 @@
-# Tesseract_-raymarcher_shadertoy
-A tesseract raymarcher from shadertoy
+# A tesseract raymarcher from shadertoy flutter project
